@@ -30,3 +30,13 @@ Pour cette tâche, il est demandé de réaliser les mêmes opérations que pour 
 
 ## 3. Task 2 : Add a tool to manage membership in the web server cluster
 
+1) Les logs correspondants aux serveurs `ha` , `s1` et `s2` sont disponibles dans le sous-dossier du repo `/logs/task2/`
+
+2)
+
+3)
+
+## 4. Task 3 : React to membership changes
+
+1) et 2) Les logs sont disponibles dans le sous-répertoire `logs`, situé à la racine du repo.
+
